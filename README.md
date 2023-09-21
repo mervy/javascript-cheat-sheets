@@ -16,3 +16,16 @@
 # Advanced
 
 - https://zerotomastery.io/cheatsheets/javascript-cheatsheet-the-advanced-concepts/
+
+# Other
+- https://javascript.info/
+
+
+# Code Sandboxes
+
+- [JS Fiddle](https://jsfiddle.net/)
+- [JS Bin](https://jsbin.com/?html,js,output)
+- [CodeSandbox](https://codesandbox.io/)
+- [CodePen]https://codepen.io/)
+- [Repl.it](https://replit.com/)
+- [FrontEditor] (https://www.fronteditor.dev/)
